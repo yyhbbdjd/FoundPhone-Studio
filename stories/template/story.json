@@ -3,7 +3,7 @@
   "id": "ui-test-phone-v2",
   "title": "捡手机",
   "description": "仅用于界面测试，不含剧情",
-  "revision": 5,
+  "revision": 6,
   "phone": {
     "owner": "机主",
     "date": "2026-10-25",
@@ -550,12 +550,21 @@
     ],
     "twitter": [
       {
-        "id": "test-item-twitter",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
+        "id": "yuha-x-profile",
+        "title": "yuha (@yuha)",
+        "body": "yuha\n@yuha\njust a little bit tired.\n\n4 正在关注 · 237 关注者\n\n☁️",
+        "sender": "yuha",
+        "avatar": "data:image/jpeg;base64,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",
+        "kind": "post",
+        "time": "2026-10-27 15:00",
+        "meta": {
+          "handle": "@yuha",
+          "displayName": "yuha",
+          "bio": "just a little bit tired.",
+          "following": "4",
+          "followers": "237",
+          "platform": "X"
+        }
       }
     ],
     "youtube": [
