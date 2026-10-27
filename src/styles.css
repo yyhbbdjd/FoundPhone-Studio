@@ -715,6 +715,13 @@ svg {
   color: #fff;
   background-size: cover;
 }
+/* Custom wallpaper image supplied for this FoundPhone fork. */
+.wallpaper-foundphone {
+  background-image: url("../assets/wallpaper-foundphone.gif");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 .wallpaper-sage {
   background: linear-gradient(
     155deg,
