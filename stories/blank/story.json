@@ -3,14 +3,14 @@
   "id": "blank-phone",
   "title": "捡手机",
   "description": "",
-  "revision": 2,
+  "revision": 3,
   "phone": {
     "owner": "机主",
     "date": "2026-10-25",
     "time": "09:41",
     "battery": 94,
     "network": "5G",
-    "wallpaper": "apple-wwdc26",
+    "wallpaper": "foundphone",
     "passcode": "1009"
   },
   "installedApps": [
